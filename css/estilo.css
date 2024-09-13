@@ -25,7 +25,7 @@
 }
 
 #itemMenu {
-    background-color: aqua;
+    background-color: rgb(255, 0, 247);
     padding: 15px;
     list-style-type: none;
     text-decoration: dotted solid black;
@@ -65,41 +65,41 @@
 .box1 {
     height: 20vh;
     flex: 1;
-    background-color: green;
+    background-color: rgb(166, 5, 83);
     color: white;
 }
 
 .box2 {
     height: 30vh;
     flex: 1;
-    background-color: darkgreen;
+    background-color: rgb(145, 65, 121);
     color: white;
 }
 
 .box3 {
     height: 15vh;
     flex: 1;
-    background-color: green;
+    background-color: rgb(128, 0, 51);
     color: white;
 }
 
 .box4 {
     height: 35vh;
-    background-color: darkgreen;
+    background-color: rgb(145, 65, 121);
     flex: 1;
     color: white;
 }
 
 .box5 {
     height: 50vh;
-    background-color: green;
+    background-color: rgb(128, 0, 51);
     color: white;
     flex: 1;
 }
 
 .box6 {
     height: 20vh;
-    background-color: darkgreen;
+    background-color: rgb(145, 65, 121);
     flex: 1;
     color: white;
 }
@@ -115,7 +115,7 @@
 .container2 {
     display: flex;
     flex: 1;
-    background-color: darkred;
+    background-color: rgb(139, 0, 0);
     padding: 10px;
 }
 
@@ -130,7 +130,7 @@
 }
 
 .containerMenu {
-    background-color: red;
+    background-color: rgb(236, 92, 92);
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -153,13 +153,13 @@
 .containerAd {
     display: flex;
     flex-direction: column;
-    background-color: red;
+    background-color: rgb(236, 92, 92);
     flex: 1;
 }
 
 .container5 {
     display: flex;
-    background-color: lightsalmon;
+    background-color: rgb(232, 157, 127);
     flex: 2;
     flex-direction: column;
     padding: 10px;
